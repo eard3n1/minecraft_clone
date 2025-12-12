@@ -1,4 +1,4 @@
-<h1>minecraft_clone</h1>
+<h1>custom_terrain</h1>
 
 <p>A basic procedural voxel terrain experiment made with <strong>Ursina Engine</strong>.</p>
 
@@ -18,7 +18,7 @@
 <h2>Setup</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/eard3n1/minecraft_clone.git</code></pre>
+    <pre><code>git clone https://github.com/eard3n1/custom_terrain.git</code></pre>
   </li>
   <li>Install Ursina:
     <pre><code>pip install ursina</code></pre>
