@@ -1,7 +1,7 @@
 from ursina import *
 from ursina.prefabs.first_person_controller import FirstPersonController
-from generate import generate_terrain
-from voxel import VoxelController
+from engine.generate import generate_terrain
+from engine.voxel import VoxelController
 from config import *
 
 app = Ursina()

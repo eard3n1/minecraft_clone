@@ -1,6 +1,6 @@
 from ursina import *
 import random
-from voxel import Voxel
+from .voxel import Voxel
 
 def generate_heightmap(width, depth, max_height, seed=None):
     if seed is None:
